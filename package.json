@@ -1,0 +1,12 @@
+{
+  "name": "noradf-sample-application",
+  "version": "0.0.1",
+  "description": "Noradf Sample Application a Noradf project",
+  "main": "server.js",
+  "keywords": [
+    "noradf"
+  ],
+  "dependencies": {
+    "noradf-core": "^0.1.0"
+  }
+}
